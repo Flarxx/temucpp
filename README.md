@@ -1,6 +1,8 @@
 # temucpp
 terminal emulator writed in c++
 
+execute as sh file(./qw)
+
 v. 0.1 pre-release
 able only for linux
 
