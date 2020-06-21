@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1592732760 source:/home/duwang/qw/main.cpp
+	<iostream>
+	"unistd.h"
+
+1592732760 source:/home/duwang/temuc++/main.cpp
+	<iostream>
+	"unistd.h"
+
